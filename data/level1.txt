@@ -1,0 +1,17 @@
+start,5,8,-5,-10,-11
+secondblock,5,4,5,-14
+floatingplatform,6,0.5,34,0
+topblock,7,7,51,-2
+bottomblock,7,4,51,-17.5
+floor,10,4,68,-17.5
+floatingstep,4,0.5,91,-10.5
+elevatorplatform,12,0.5,132,-1
+bigwall,20,15,164,13.5
+rightbasefloor,30,0.5,214,-1
+floatingrightplatform,6,0.5,210,17.5
+rightpillar,8,15,236,28.5
+platformunderpillar,8,0.5,236,8.5
+rightwall,0.5,7,243.5,6.5
+leftlong,30,0.5,106,28
+ballplatform,15,2,106,30.5
+winningplatform,6,0.5,46,28
